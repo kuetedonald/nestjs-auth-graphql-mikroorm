@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.theratabac.com/" target="blank"><img src="https://www.theratabac.com/sites/theratabac/files/Logo%20Th%C3%A9raTabac_1.png" width="200" alt="Metacoaching Logo" /></a>
+  <a href="https://lightbraincm.com/" target="blank"><img src="https://lightbraincm.com/wp-content/images/lightbrain-logo-t.png" width="200" alt="Metacoaching Logo" /></a>
 </p>
 
 ## Setup
