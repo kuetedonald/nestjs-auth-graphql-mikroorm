@@ -1,10 +1,6 @@
 <p align="center">
-  <a href="https://jenyus.web.app/" target="blank"><img src="https://avatars.githubusercontent.com/u/71438996?s=200&v=4" width="200" alt="Jenyus Logo" /></a>
+  <a href="https://www.theratabac.com/" target="blank"><img src="https://www.theratabac.com/sites/theratabac/files/Logo%20Th%C3%A9raTabac_1.png" width="200" alt="Metacoaching Logo" /></a>
 </p>
-
-## Description
-
-A fork of the [Nest](https://github.com/nestjs/nest) framework [TypeScript boilerplate](https://github.com/Jenyus-Org/nestjs-auth-graphql-starter) by Jenyus with PassportJS authentication, GraphQL and OpenAPI docs integrations using MikroORM.
 
 ## Setup
 
@@ -75,7 +71,3 @@ $ yarn test:e2e
 # test coverage
 $ yarn test:cov
 ```
-
-## License
-
-This boilerplate remains true to Nest and is [MIT licensed](LICENSE).
